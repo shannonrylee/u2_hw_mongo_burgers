@@ -38,7 +38,7 @@ burgersDataBase> db.burgers.drop()
 // {
 //   "dropped": "burgers",
 //   "ok": 1
-// }
+// 
 burgersDataBase> db.dropDatabase()
 { ok: 1, dropped: 'burgersDataBase' }
 //
